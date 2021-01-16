@@ -1,0 +1,120 @@
+table results already exists
+
+[93m*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 3.1.0                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+******************************************************************* 
+
+ [0m
+[94m[*] Target: wiki.cs.money 
+ [0m
+[94m[*] Searching Bing. [0m
+
+[93m[!] Missing API key. [0m
+[94m[*] Searching Dogpile. [0m
+[94m[*] Searching Github (code). [0m
+
+[93m[!] Missing API key. [0m
+[94m[*] Searching AlienVault OTX. [0m
+	Searching results.
+[94m[*] Searching Linkedin. [0m
+	Searching 100 results.
+	Searching 200 results.
+	Searching 300 results.
+	Searching 400 results.
+	Searching 500 results.
+
+[*] No users found Linkedin.
+
+
+[94m[*] Searching SecurityTrails. [0m
+
+[93m[!] Missing API key. [0m
+[94m[*] Searching Baidu. [0m
+[94m[*] Searching Bing. [0m
+	Searching 0 results.
+[94m[*] Searching Exalead [0m
+Searching results
+[94m[*] Searching Intelx. [0m
+An exception has occurred: Expecting value: line 1 column 1 (char 0)
+[94m[*] Searching DuckDuckGo. [0m
+[94m[*] Searching Yahoo. [0m
+[94m[*] Searching Linkedin. [0m
+	Searching 100 results.
+	Searching 200 results.
+	Searching 300 results.
+	Searching 400 results.
+	Searching 500 results.
+
+[*] No links found Linkedin.
+
+
+[94m[*] Searching Netcraft. [0m
+[94m[*] Searching Trello. [0m
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+substring not found
+	Searching 0 results.
+[94m[*] Searching Twitter usernames using Google. [0m
+
+[*] No users found.
+
+
+[94m[*] Searching CertSpotter. [0m
+	Searching results.
+[94m[*] Searching Threatcrowd. [0m
+	Searching results.
+[94m[*] Searching DNSdumpster. [0m
+[94m[*] Searching VirusTotal. [0m
+	Searching results.
+[94m[*] Searching Suip. This module can take 10+ mins to run but it is worth it.[0m
+	Searching results.
+[94m[*] Searching CRT.sh. [0m
+	Searching results.
+[94m[*] Searching Google. [0m
+	Searching 0 results.
+	Searching 100 results.
+	Searching 200 results.
+	Searching 300 results.
+	Searching 400 results.
+	Searching 500 results.
+[94m[*] Searching Hunter. [0m
+
+[93m[!] Missing API key. [0m
+
+[*] IPs found: 4
+-------------------
+51.91.174.148
+104.20.76.156
+104.20.77.156
+172.67.18.34
+
+[*] No emails found.
+
+[*] Hosts found: 4
+---------------------
+none:
+wiki.cs.money:104.20.77.156, 172.67.18.34, 104.20.76.156
+
+[*] No Trello URLs found.
